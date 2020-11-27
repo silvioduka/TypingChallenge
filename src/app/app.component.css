@@ -1,4 +1,8 @@
-.pennding {
+.container {
+  margin-top: 80px;
+}
+
+.pending {
   color: grey;
 }
 
