@@ -1,0 +1,13 @@
+.pennding {
+  color: grey;
+}
+
+.correct {
+  color: rgb(0, 175, 0);
+  font-weight: bold;
+}
+
+.incorrect {
+  color: red;
+  font-weight: bold;
+}
